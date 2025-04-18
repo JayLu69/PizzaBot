@@ -6,7 +6,8 @@ A modern, visually appealing pizza ordering chatbot built with React and Vite.
 - Conversational pizza ordering flow
 - Choose pizza type, size, and toppings
 - Order confirmation
-- Pretty, responsive UI
+- Contact customer support
+- Cancel order
 
 ## Getting Started
 
